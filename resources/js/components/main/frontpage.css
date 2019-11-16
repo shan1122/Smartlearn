@@ -1,0 +1,22 @@
+.addition {
+    height: 100vh;
+    background-image: url("home.jpg");
+    background-size: cover;
+
+    display: block;
+    background-color: aqua;
+}
+.additional-text {
+    padding-top: 50px;
+    padding-left: 20px;
+    color: white;
+    font-size: 35px;
+}
+.heading {
+    font-style: oblique;
+}
+.paragraph {
+    font-size: 20px;
+    font-style: italic;
+    color: aliceblue;
+}

@@ -1,0 +1,34 @@
+.footer {
+    background-color: rgb(232, 235, 241);
+
+    padding: 20px;
+    color: black;
+    text-align: center;
+    box-shadow: 0px -7px 20px 1px rgba(0, 0, 0, 0.75);
+    margin-top: 100px;
+}
+.FooterHeadings {
+    color: #ec5252;
+}
+.section {
+    text-align: left;
+    padding: 20px;
+    color: black;
+}
+.section a {
+    text-decoration: none;
+    color: black;
+}
+
+.section a:hover {
+    color: darkgrey;
+}
+.copyright {
+    text-align: center;
+    background-color: darkgray;
+    padding: 10px;
+}
+.copyright a {
+    text-decoration: none;
+    color: white;
+}

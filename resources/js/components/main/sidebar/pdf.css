@@ -1,0 +1,7 @@
+.pdf-height {
+    height: 600px;
+    overflow: auto;
+}
+.topicbar {
+    background-color: gray;
+}

@@ -1,0 +1,65 @@
+.email-page {
+    background-image: url("Lush.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    font-family: "Numans", sans-serif;
+}
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.email-card {
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    border-left: 5px solid #ec5252;
+    border-bottom: 5px solid #ec5252;
+    border-right: 5px solid #ec5252;
+    border-top: 5px solid #ec5252;
+    height: 300px;
+    /* margin-top: auto; */
+    margin-top: 60px;
+    margin-bottom: auto;
+    width: 500px;
+}
+.email-card-footer {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: #313131;
+}
+.email-card-header b {
+    color: white;
+    font-family: "stag Web";
+    font-size: 45px;
+}
+.email-card-body {
+    margin: 10px;
+}
+.input-group-prepend span {
+    width: 50px;
+    background-color: #ec5252;
+
+    color: black;
+    border: 0 !important;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.email_btn {
+    color: black;
+    background-color: #ec5252;
+
+    width: 150px;
+    align-content: center;
+}
+
+.email_btn:hover {
+    color: black;
+    background-color: white;
+}

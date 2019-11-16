@@ -1,0 +1,11 @@
+.links:hover {
+    /* text-decoration: underline !important; */
+    color: whitesmoke !important;
+    background: darkgray;
+    cursor: pointer;
+}
+
+.bordered {
+    margin: 20px;
+    padding: 60px;
+}

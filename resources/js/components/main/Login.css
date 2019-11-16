@@ -1,0 +1,116 @@
+.login-page {
+    background-image: url("Lush.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    font-family: "Numans", sans-serif;
+}
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    border-left: 5px solid rgb(246, 200, 81);
+    border-bottom: 5px solid rgb(246, 200, 81);
+    border-right: 5px solid rgb(246, 200, 81);
+    border-top: 5px solid rgb(246, 200, 81);
+
+    /* border-right: 1px rgb(246, 200, 81); */
+    height: 480px;
+    margin-top: 60px;
+    margin-bottom: auto;
+    width: 450px;
+}
+.login {
+    margin-top: 15px;
+    color: white;
+}
+.input-group > .form-control {
+    border-bottom-left-radius: 0;
+    height: auto;
+}
+.social_icon span {
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.fa-google {
+    color: rgb(221, 75, 57);
+}
+.fa-google:hover {
+    color: white;
+}
+
+/* .icon:hover {
+    color: rgb(246, 200, 81);
+    cursor: pointer;
+  } */
+.card-header b {
+    color: white;
+    margin-bottom: 25px;
+    font-family: "stag Web";
+    font-size: 45px;
+}
+.social_icon {
+    margin-left: 0px;
+}
+/* .social_icon {
+  position: absolute;
+  right: 20px;
+  top: -45px;
+} */
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #ec5252;
+    color: black;
+    border: 0;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+    color: white;
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn {
+    color: black;
+    background-color: #ec5252;
+    border-radius: 3px;
+    border: none;
+    padding: 5px;
+    margin: 15px 0px 0px 0px;
+    width: 100px;
+    align-content: center;
+}
+
+.login_btn:hover {
+    color: black;
+    background-color: white;
+}
+
+.link {
+    color: white;
+}
+
+.link a {
+    margin-left: 4px;
+}
+
+.card-footer {
+    margin-top: 0px;
+}

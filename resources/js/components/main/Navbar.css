@@ -1,0 +1,12 @@
+.link:hover {
+    background: #d22222 !important;
+    color: aliceblue;
+    /* padding: 0px; */
+    cursor: pointer;
+}
+.icon {
+    padding: 0px;
+}
+.icon:hover {
+    background: none;
+}
